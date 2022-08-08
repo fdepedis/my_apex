@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_apex/strings.dart';
-import 'card_content.dart';
+import 'package:my_apex/utils/strings.dart';
+import '../contents/card_content.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen({Key key, this.title}) : super(key: key);

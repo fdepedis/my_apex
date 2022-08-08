@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'splash_screen.dart';
+import 'routes/splash_screen.dart';
 
 void main() {
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
