@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:my_apex/utils.dart';
-import 'package:my_apex/web_view_container.dart';
+import 'package:my_apex/utils/utils.dart';
+import 'package:my_apex/contents/web_view_container.dart';
 
 class CardContent extends StatelessWidget {
   static double cardHeight;
