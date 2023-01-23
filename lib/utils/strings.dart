@@ -12,7 +12,7 @@ class Strings {
   static const String url_int =
       'https://managerialadjustmentsint.luxottica.com/dop_app_lux/?route=login';
   static const String url_prod =
-      'https://managerialadjustments.luxottica.com/dop_app_lux_reorg/?route=login';
+      'https://managerialadjustments.luxottica.com/dop_app_lux/?route=login';
 
   // generic Description
   static const String generic_description = "Managerial Adjustments";
